@@ -5,4 +5,8 @@
 Apasionada por diseñar y optimizar pipelines ETL, administrar bases de datos y desarrollar soluciones de datos con SQL, PL/SQL y Python. Experiencia trabajando tanto en entornos cloud (Azure, GCP) como on-premise para entregar arquitecturas de datos escalables y confiables. 
 Me gusta colaborar en proyectos que impulsan la innovación en datos y seguir ampliando mis habilidades técnicas.
 
+:bulb: Actualmente estoy aprendiendo sobre AWS y AI
+
+:email: dayanearias@gmail.com
+
 Basada en Colombia | Trabajo remoto 💻
