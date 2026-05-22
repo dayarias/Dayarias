@@ -25,4 +25,4 @@ Me gusta colaborar en proyectos que impulsan la innovación en datos y seguir am
 
 :email: dayanearias@gmail.com
 
-Basada en Colombia | Trabajo remoto 💻
+Viviendo en Colombia | Trabajo remoto 💻
