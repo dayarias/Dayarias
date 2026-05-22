@@ -12,7 +12,6 @@ Passionate about designing and optimizing ETL pipelines, managing databases, and
 
 You can check my [linkedin profile](https://www.linkedin.com/in/dayane-arias-it/).
 
-ppm
 Based in Colombia | Working from home 💻
 
 ## Español
