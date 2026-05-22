@@ -10,6 +10,9 @@ Passionate about designing and optimizing ETL pipelines, managing databases, and
 
 :email: dayanearias@gmail.com
 
+You can check my [linkedin profile](https://www.linkedin.com/in/dayane-arias-it/).
+
+ppm
 Based in Colombia | Working from home 💻
 
 ## Español
@@ -18,11 +21,13 @@ Based in Colombia | Working from home 💻
 
 **Ingeniera de datos | Especialista en bases de datos | Cloud y Python**
 
-Apasionada por diseñar y optimizar pipelines ETL, administrar bases de datos y desarrollar soluciones de datos con SQL, PL/SQL y Python. Experiencia trabajando tanto en entornos cloud (Azure, GCP) como on-premise para entregar arquitecturas de datos escalables y confiables. 
+Apasionada por diseñar y optimizar pipelines ETL, administrar bases de datos y desarrollar soluciones de datos con SQL, PL/SQL y Python. Experiencia trabajando tanto en entornos cloud (Azure, GCP) y tambien servidores on-premise para entregar arquitecturas de datos escalables y confiables. 
 Me gusta colaborar en proyectos que impulsan la innovación en datos y seguir ampliando mis habilidades técnicas.
 
-:bulb: Actualmente estoy aprendiendo sobre Databricks and Azure
+:bulb: Actualmente estoy aprendiendo sobre Databricks y Azure
 
 :email: dayanearias@gmail.com
+
+Puedes visitar mi [perfil de Linkedin](https://www.linkedin.com/in/dayane-arias-it/).
 
 Viviendo en Colombia | Trabajo remoto 💻
